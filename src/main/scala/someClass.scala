@@ -1,5 +1,3 @@
-package yields
-
 //        class someClass ()
 //or      class someClass (var x: Int, var y: Int)  //public parameters
 //or      class someClass (x: Int, y: Int)          //private parameters

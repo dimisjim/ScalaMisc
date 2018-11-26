@@ -1,9 +1,7 @@
-package yields
-
 import scala.util.matching.Regex
 
 
-object main extends App{
+object main_regex extends App{
 //------------------used for PATHUtils modification (uses 3 defs)
 //  val path = functions.getLatestRversionPath("C:\\Program Files\\R")
 //  println(path)

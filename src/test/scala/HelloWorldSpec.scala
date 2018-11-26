@@ -1,5 +1,5 @@
-import org.specs2._
 
+/*
 class HelloWorldSpec extends Specification {
 
   //defining results
@@ -19,3 +19,5 @@ class HelloWorldSpec extends Specification {
   def e2 = "Hello world" must startWith("Hello")
   def e3 = "Hello world" must endWith("world")
 }
+
+*/

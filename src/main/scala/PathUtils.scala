@@ -1,8 +1,7 @@
-package io.yields
-
+import java.io.File
 import java.nio.file.{Files, Paths}
 
-object PathsUtils {
+object PathUtils {
 
   def pathFromString(path: String) = {
     val segments = path.split("/") match {
